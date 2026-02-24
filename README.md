@@ -1,1 +1,1 @@
-# DSI-Data-Quest-2025
+This project in for Data Science Indonesia Data Quest 2025 competition, which focuses on understanding customer behavior tu increase marketing effectiveness. Starting with raw CSV data, the project involves a series of steps to transform the data into actionable visualizations.
